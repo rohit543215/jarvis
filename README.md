@@ -18,13 +18,13 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ![Screenshot 1](https://github.com/rohit543215/jarvis/blob/master/Screenshot%202025-09-18%20201006.png)
 
 
-![Screenshot 2](screenshots/Screenshot 2025-09-18 201052.png)
+![Screenshot 2](https://github.com/rohit543215/jarvis/blob/master/Screenshot%202025-09-18%20201052.png)
 
 
-![Screenshot 3](screenshots/Screenshot 2025-09-18 201111.png)
+![Screenshot 3](https://github.com/rohit543215/jarvis/blob/master/Screenshot%202025-09-18%20201111.png)
 
 
-![Screenshot 4](screenshots/Screenshot 2025-09-18 201122.png)
+![Screenshot 4](https://github.com/rohit543215/jarvis/blob/master/Screenshot%202025-09-18%20201122.png)
 
 
 
