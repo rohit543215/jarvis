@@ -15,8 +15,5 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 🎵 Play Videos/Songs on YouTube & Spotify
 🌤️ Check Weather Updates
 
-!(screenshots/Screenshot 2025-09-18 201006.png)
-!(screenshots/Screenshot 2025-09-18 201052.png)
-!(screenshots/Screenshot 2025-09-18 201111.png)
-!(screenshots/Screenshot 2025-09-18 201122.png)
+
 
